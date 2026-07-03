@@ -1,0 +1,34 @@
+[
+    {
+        "node_id": "DATA_NODE_01",
+        "state": "ACTIVE",
+        "metrics": {
+            "temp": "94.2C"
+        },
+        "validated": true
+    },
+    {
+        "node_id": "DATA_NODE_02",
+        "state": "SYSTEM_ERR",
+        "metrics": {
+            "temp": "105.8C"
+        },
+        "validated": true
+    },
+    {
+        "node_id": "DATA_NODE_03",
+        "state": "LATENCY_WARN",
+        "metrics": {
+            "temp": "89.1C"
+        },
+        "validated": true
+    },
+    {
+        "node_id": "DATA_NODE_04",
+        "state": "ACTIVE",
+        "metrics": {
+            "temp": "91.5C"
+        },
+        "validated": true
+    }
+]
